@@ -1,6 +1,6 @@
-<a href="https://s.id/standwithpalestine"><img alt="I stand with Palestine" src="https://cdn.jsdelivr.net/gh/Safouene1/support-palestine-banner@master/banner-support.svg" width="100%" /></a>
+<a href="https://s.id/standwithpalestine"><img alt="I stand with Palestine" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlcJmHiBDM38_kX3JjER66wu0QU9mMAZUxmg&s" width="100%" /></a>
 
-## 👋 Hi there, I'm Suluh!
+## 👋 Hi there, I'm Habeb!
 
 a software engineer from Indonesia. 9+ years of experience in web development.
 
